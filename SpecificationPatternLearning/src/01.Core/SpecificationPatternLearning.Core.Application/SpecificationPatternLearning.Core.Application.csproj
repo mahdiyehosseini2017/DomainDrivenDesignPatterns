@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\00.Framework\HSN.Framework\HSN.Framework.csproj" />
+    <ProjectReference Include="..\SpecificationPatternLearning.Core.Domain\SpecificationPatternLearning.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

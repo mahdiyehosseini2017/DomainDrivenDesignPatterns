@@ -1,0 +1,12 @@
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\bin\Debug\net5.0\HSN.Framework.deps.json
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\bin\Debug\net5.0\HSN.Framework.dll
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\bin\Debug\net5.0\ref\HSN.Framework.dll
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\bin\Debug\net5.0\HSN.Framework.pdb
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\obj\Debug\net5.0\HSN.Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\obj\Debug\net5.0\HSN.Framework.AssemblyInfoInputs.cache
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\obj\Debug\net5.0\HSN.Framework.AssemblyInfo.cs
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\obj\Debug\net5.0\HSN.Framework.csproj.CoreCompileInputs.cache
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\obj\Debug\net5.0\HSN.Framework.dll
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\obj\Debug\net5.0\ref\HSN.Framework.dll
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\obj\Debug\net5.0\HSN.Framework.pdb
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\00.Framework\HSN.Framework\obj\Debug\net5.0\HSN.Framework.csprojAssemblyReference.cache

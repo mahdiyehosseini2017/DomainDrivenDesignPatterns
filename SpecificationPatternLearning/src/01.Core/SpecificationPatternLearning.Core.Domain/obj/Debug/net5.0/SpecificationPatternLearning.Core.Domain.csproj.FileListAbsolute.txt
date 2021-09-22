@@ -1,0 +1,15 @@
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\obj\Debug\net5.0\SpecificationPatternLearning.Core.Domain.csprojAssemblyReference.cache
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\obj\Debug\net5.0\SpecificationPatternLearning.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\obj\Debug\net5.0\SpecificationPatternLearning.Core.Domain.AssemblyInfoInputs.cache
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\obj\Debug\net5.0\SpecificationPatternLearning.Core.Domain.AssemblyInfo.cs
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\obj\Debug\net5.0\SpecificationPatternLearning.Core.Domain.csproj.CoreCompileInputs.cache
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\bin\Debug\net5.0\SpecificationPatternLearning.Core.Domain.deps.json
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\bin\Debug\net5.0\SpecificationPatternLearning.Core.Domain.dll
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\bin\Debug\net5.0\ref\SpecificationPatternLearning.Core.Domain.dll
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\bin\Debug\net5.0\SpecificationPatternLearning.Core.Domain.pdb
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\bin\Debug\net5.0\HSN.Framework.dll
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\bin\Debug\net5.0\HSN.Framework.pdb
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\obj\Debug\net5.0\SpecificationPatternLearning.Core.Domain.csproj.CopyComplete
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\obj\Debug\net5.0\SpecificationPatternLearning.Core.Domain.dll
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\obj\Debug\net5.0\ref\SpecificationPatternLearning.Core.Domain.dll
+F:\programming\server\pattern\Specification pattern\SpecificationPatternLearning\src\01.Core\SpecificationPatternLearning.Core.Domain\obj\Debug\net5.0\SpecificationPatternLearning.Core.Domain.pdb
